@@ -1,0 +1,41 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 20,
+    "fluxVents": 1,
+    "goalVariant": true,
+    "hullId": "srss_austerity",
+    "hullMods": [
+        "phase_anchor",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "srss_austerity_standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "autopulse"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "sabotpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0003": "heavymauler"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0005": "irpulse"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "pdburst"}
+        }
+    ]
+}

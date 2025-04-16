@@ -1,0 +1,127 @@
+{
+	"starSystem": "vespera",
+	"markets": [
+		{
+			"entities": ["nimoria"],
+			"faction": "solvaris",
+			"size": 6,
+			"startingConditions": [
+				"population_6",
+				"industrial_polity",
+
+				"farmland_bountiful",
+				"organics_plentiful",
+
+				"habitable",
+				"mild_climate",
+			],
+			"industries": [
+				"population",
+				"megaport",
+
+				"waystation",
+				"heavybatteries",
+				"starfortress_high",
+				"nehul_frame",
+
+				"mining",
+				"highcommand",
+				"farming",
+				"lightindustry",
+			]
+		},
+		{
+			"entities": ["amaris"],
+			"faction": "solvaris",
+			"size": 6,
+			"startingConditions": [
+				"population_6",
+				"industrial_polity",
+
+				"low_gravity",
+				"no_atmosphere",
+				
+				"rare_ore_rich",
+				"ore_rich",
+				"volatiles_diffuse",
+			],
+			"industries": [
+				"population",
+				"megaport",
+
+				"waystation",
+				"heavybatteries",
+				"starfortress_high",
+
+				"mining",
+				"orbitalworks",
+				"fuelprod",
+				"refining",
+			]
+		},
+		{
+			"entities": ["vesperis"],
+			"faction": "solvaris",
+			"size": 8,
+			"startingConditions": [
+				"population_8",
+				"regional_capital",
+				"established_polity",
+				"industrial_polity",
+
+
+				"volatiles_plentiful",
+				"organics_abundant",
+				"volturnian_lobster_pens",
+
+				"habitable",
+				"water_surface",
+				"mild_climate",
+			],
+			"industries": [
+				"population",
+				"megaport",
+
+				"waystation",
+				"heavybatteries",
+				"starfortress_high",
+
+				"aquaculture",
+				"highcommand",
+				"orbitalworks",
+				"commerce",
+			]
+		},
+		{
+			"entities": ["solara"],
+			"faction": "solvaris",
+			"size": 6,
+			"startingConditions": [
+				"population_6",
+				"industrial_polity",
+				"outpost",
+				
+				"very_hot",
+
+				"no_atmosphere",
+				
+				"rare_ore_ultrarich",
+				"ore_rich",
+				"volatiles_diffuse",
+			],
+			"industries": [
+				"population",
+				"megaport",
+
+				"waystation",
+				"heavybatteries",
+				"starfortress_high",
+
+				"fuelprod",
+				"mining",
+				"highcommand",
+				"orbitalworks",
+			]
+		}
+	]
+}

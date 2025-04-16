@@ -1,0 +1,39 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 9,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "srss_perpetuation",
+    "hullMods": [
+        "advancedshieldemitter",
+        "fluxbreakers"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "srss_perpetuation_standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "heavymauler"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "sabotpod"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "lightag"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "vulcan",
+                "WS0005": "vulcan"
+            }
+        }
+    ]
+}

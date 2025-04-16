@@ -1,0 +1,53 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 30,
+    "fluxVents": 6,
+    "goalVariant": true,
+    "hullId": "srss_endurance",
+    "hullMods": [
+        "advancedshieldemitter",
+        "hardenedshieldemitter",
+        "fluxbreakers",
+        "autorepair"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "srss_endurance_standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "gigacannon"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "dragon"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "heavymauler",
+                "WS0003": "heavymauler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "taclaser",
+                "WS0005": "taclaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "pdburst",
+                "WS0007": "pdburst",
+                "WS0008": "pdburst"
+            }
+        }
+    ]
+}

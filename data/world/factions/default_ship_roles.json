@@ -1,0 +1,90 @@
+{
+
+	# phase ships
+	"phaseSmall":{
+		"srss_austerity_standard":10,
+	},
+	"phaseMedium":{		
+		"srss_austerity_standard":10,
+	},
+	"phaseLarge":{		
+		"srss_austerity_standard":10,
+	},
+	"phaseCapital":{		
+		"srss_austerity_standard":10,
+	},
+
+	# combat ships
+	"combatSmall":
+	{
+		"srss_austerity_standard":10,
+		"srss_continuance_standard":10,
+		"srss_endurance_standard":10,
+		"srss_forbearance_standard":10,
+		"srss_perpetuation_standard":10,
+		"srss_stamina_standard":10,
+	},
+    "combatMedium":
+	{
+		"srss_austerity_standard":10,
+		"srss_continuance_standard":10,
+		"srss_endurance_standard":10,
+		"srss_forbearance_standard":10,
+		"srss_perpetuation_standard":10,
+		"srss_stamina_standard":10,
+	},
+    "combatLarge":
+	{
+		"srss_austerity_standard":10,
+		"srss_continuance_standard":10,
+		"srss_endurance_standard":10,
+		"srss_forbearance_standard":10,
+		"srss_perpetuation_standard":10,
+		"srss_stamina_standard":10,
+	},
+    "combatCapital":
+	{
+		"srss_austerity_standard":10,
+		"srss_continuance_standard":10,
+		"srss_endurance_standard":10,
+		"srss_forbearance_standard":10,
+		"srss_perpetuation_standard":10,
+		"srss_stamina_standard":10,
+	},
+
+	# freighters and tankers
+	"freighterSmall":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+	"freighterMedium":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+	"freighterLarge":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+	"freighterCapital":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+	"tankerSmall":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+	"tankerMedium":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+	"tankerLarge":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+	"tankerCapital":{
+		"srss_determinant_fuel_stardard":10,
+		"srss_determinant_stardard":10,
+	},
+
+
+}

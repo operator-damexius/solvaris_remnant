@@ -1,0 +1,70 @@
+{
+	"starSystem": "vailara",
+	"markets": [
+		{
+			"entities": ["nyxara"],
+			"faction": "solvaris",
+			"size": 6,
+			"startingConditions": [
+				"population_6",
+				"outpost",
+
+				"hot",
+
+				"ore_rich",
+				"rare_ore_rich",
+				"farmland_rich",
+				"organics_abundant",
+				"volatiles_diffuse",
+			],
+			"industries": [				
+				"population",
+				"megaport",
+
+				"waystation",
+				"heavybatteries",
+				"starfortress_high",
+				
+				
+				"mining",
+				"highcommand",
+				"farming",
+				"lightindustry",		
+			]
+		},
+		{
+			"entities": ["orvion"],
+			"faction": "solvaris",
+			"size": 6,
+			"startingConditions": [
+				"population_6",
+				"regional_capital",
+
+				"cold",
+
+				"rare_ore_rich",
+				"ore_rich",
+				"volatiles_diffuse",
+				"organics_abundant",
+				"farmland_rich",
+				"habitable",
+			],
+			"industries": [
+				"population",
+				"megaport",
+
+				"waystation",
+				"heavybatteries",
+				"starfortress_high",
+				
+				"mining",
+				"farming",
+				"lightindustry",
+				"fuelprod",
+
+				"cryosanctum",
+				"patrolhq",
+			]
+		}
+	]
+}
